@@ -2,7 +2,7 @@
 
 Solutions for [Advent of Code 2022](https://adventofcode.com/2022), written in Rust
 
-## Running The Solutions
+## Running Solutions
 
 ```sh
 $ cargo run --bin <day>
@@ -17,5 +17,5 @@ $ cargo run --bin d01
 ## Adding Solutions
 
 ```sh
-$ cargo add solutions/<day>
+$ cargo new solutions/<day>
 ```
