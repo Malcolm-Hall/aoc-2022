@@ -1,5 +1,4 @@
 #![feature(iter_next_chunk)]
-#![allow(unused)]
 
 use std::{collections::HashSet, fs::read_to_string};
 
