@@ -17,5 +17,5 @@ $ cargo run --bin d01
 ## Adding Solutions
 
 ```sh
-$ cargo new solutions/<day>
+$ cargo new --vcs none solutions/<day>
 ```
